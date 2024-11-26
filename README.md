@@ -1,4 +1,12 @@
-# An example Django + Docker app
+# An example Django + Docker app using pixi
+
+A fork of:[https://github.com/nickjj/docker-django-example](https://github.com/nickjj/docker-django-example)
+
+This one uses pixi and ruff for speed reasons, making it nice to upgrade, reproduce etc. On the JS side, it uses pnpm for speed. The whole point of this is to make the experience better for the end user!
+
+
+# Other repo Readme.md
+
 
 ![CI](https://github.com/nickjj/docker-django-example/workflows/CI/badge.svg?branch=main)
 
